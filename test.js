@@ -18,3 +18,10 @@
 12312312312312312312312
 12312312312312312312312
 12312312312312312312312
+
+
+
+https://cdn.jsdelivr.net/gh/MisterJie/cdn@1.0/test.js
+https://cdn.bootcdn.net/ajax/MisterJie/cdn/1.0/test.js
+
+https://cdn.jsdelivr.net/gh/YanXiaoLan/cdn@1.0/test.js
